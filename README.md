@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/backend-architecture-banner.png" alt="Backend architecture illustration" width="100%">
+
 # backend-skill
 
 **让后端架构有清晰的边界，让功能扩展有明确的契约。**
