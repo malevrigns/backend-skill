@@ -1,0 +1,6 @@
+interface:
+  display_name: "backend-skill"
+  short_description: "Go 后端分层解耦、功能扩展、前后端接口契约与微服务演进设计"
+  default_prompt: "使用 $backend-skill 分析或实现 Go 后端，说明分层接口与功能扩展，交付前端对接文档并规划微服务演进。"
+policy:
+  allow_implicit_invocation: true
